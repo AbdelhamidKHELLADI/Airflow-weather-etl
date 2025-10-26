@@ -1,0 +1,6 @@
+datetime,main,description,temp,feels_like,temp_min,temp_max,humidity,pressure,sea_level,grnd_level
+2025-10-25 21:30:56,Clouds,overcast clouds,11.31,10.48,9.16,13.03,76,1007,1007,910
+2025-10-25 21:31:09,Clouds,overcast clouds,11.31,10.48,9.16,13.03,76,1007,1007,910
+2025-10-25 21:36:23,Clouds,overcast clouds,11.31,10.51,9.16,13.03,77,1007,1007,910
+2025-10-25 21:36:23,Clouds,overcast clouds,11.31,10.51,9.16,13.03,77,1007,1007,910
+2025-10-26 19:49:35,Clouds,broken clouds,8.8,6.03,7.59,10.29,60,1009,1009,911
